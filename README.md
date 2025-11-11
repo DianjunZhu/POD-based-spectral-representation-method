@@ -14,10 +14,9 @@ Run the examples directly
 ## Multi-Dimensional Extension
 
 The implementation can be **easily extended to multi-dimensional cases**:
-# Example for 2D case:
+for 2D case:
 S_matrix = [[S_xx(ω,t), S_xy(ω,t)],
             [S_yx(ω,t), S_yy(ω,t)]]
-
-# The same POD framework applies directly according to Ref:
+The same POD framework applies directly according to Ref:
 Huang, G. 2015. Application of proper orthogonal decomposition in fast Fourier transform—Assisted multivariate nonstationary process simulation.
 
